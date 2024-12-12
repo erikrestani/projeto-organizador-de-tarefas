@@ -1,16 +1,17 @@
-# projeto_organizador_de_tarefas
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <h1>Task Organizer Study Project</h1>
+    <h2>📖 About</h2>
+    <p>This is a study project aimed at building a task organizer application using <strong>Dart</strong> to develop with <strong>Flutter</strong>.</p>
+    <h2>💻 Technologies Used</h2>
+    <ul>
+        <li><strong><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="20"> Dart</strong></li>
+        <li><strong><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="20"> Flutter</strong></li>
+    </ul>
+</body>
+</html>
